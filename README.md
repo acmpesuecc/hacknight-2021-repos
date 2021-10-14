@@ -29,23 +29,54 @@ This contains all the repositories of Hacknight 3.0 2021 which one can contribut
 - [CFDDNS](https://github.com/acmpesuecc/CFDDNS)
   - Python
 - [Perf Test](https://github.com/acmpesuecc/perf-test)
+  - C
+  - Makefile
+  - Shell
+  - CMake
 - [Maze Solver](https://github.com/acmpesuecc/maze_solver)
+  - C++
 - [Bare Bones](https://github.com/acmpesuecc/BareBones)
+  - SystemVerilog
 - [NoSpoilers](https://github.com/acmpesuecc/NoSpoilers)
+  - Python
 - [Credit Card Verification](https://github.com/acmpesuecc/CreditCardVerifier)
-- [AttendanceLogger](https://github.com/acmpesuecc/AttendanceLogger) 
+  - HTML
+  - CSS
+  - JavaScript
+- [AttendanceLogger](https://github.com/acmpesuecc/AttendanceLogger)
+  - Go
 - [Calculate Your CGPA](https://github.com/acmpesuecc/calcyourgpa)
+  - link broke
 - [DrinkWaterBot](https://github.com/acmpesuecc/DrinkWaterBot)
+  - JavaScript
 - [Deprint](https://github.com/acmpesuecc/deprint)
+  - TypeScript
+  - JavaScript
 - [TicTacToe](https://github.com/acmpesuecc/tictactoe)
+  - HTML
+  - CSS
+  - JavaScript
+  - TypeScript
 - [React Starter Files](https://github.com/acmpesuecc/react-starter-files) 
+  - link broke
 - [Keystroke Injector](https://github.com/acmpesuecc/keystroke_injector)
+  - C++
+  - C
 - [Vigenere Cipher](https://github.com/acmpesuecc/vigenere_cipher)
+  - C
+  - Makefile
 - [Object Recognition and Classification System](https://github.com/acmpesuecc/Object-Recognition-and-Classification-System)
+  - Python
 - [Voice Based Translator](https://github.com/Manab784/Voice-Based-Translator)
+  - link broke
 - [SNEK game](https://github.com/acmpesuecc/SNEK.git)
+  - Python
 - [Cab booking management simulation](https://github.com/acmpesuecc/Cab-Booking-Managemet-Simulation)
+  - C++
 - [Sudoku](https://github.com/acmpesuecc/py-sudoku)
+  - Python
 - [Get RFCs](https://github.com/acmpesuecc/py-getrfc)
+  - Python
 - [LeaderBoard](https://github.com/acmpesuecc/bigboard)
 - [Measure App](https://github.com/Manab784/Measure_App)
+  - link broke
