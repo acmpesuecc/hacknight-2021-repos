@@ -1,57 +1,64 @@
 # HACKNIGHT 2021 REPOSITORIES
 This contains all the repositories of Hacknight 3.0 2021 which one can contribute to.
 
-- [Book Recommendation System](https://github.com/thelastCube/Book-Recommendation-System)
-  - Python
-  - Jupyter notebook
-- [EasyLinks](https://github.com/acmpesuecc/EasyLinks)
-  - Python
-  - HTML
-  - JavaScript
-- [Code Snips](https://github.com/acmpesuecc/code_snips)
-  - Python
-  - Jupyter Notebook
-- [CricBot](https://github.com/acmpesuecc/CricBot)
-
-- [Recommendation System](https://github.com/acmpesuecc/Recommendation-system)
-  - Python
-  - Jupyter Notebook
-- [Cvpedia](https://github.com/acmpesuecc/Cvpedia)
-  - HTML
-  - CSS
-  - JavaScript
+- [AttendanceLogger](https://github.com/acmpesuecc/AttendanceLogger)
+  - Go
 - [Avions](https://github.com/acmpesuecc/avions_repository)
   - HTML
   - CSS
   - JavaScript
-- [ResourcePolice](https://github.com/acmpesuecc/ResourcePolice) 
+- [Bare Bones](https://github.com/acmpesuecc/BareBones)
+  - SystemVerilog
+- [Book Recommendation System](https://github.com/thelastCube/Book-Recommendation-System)
   - Python
+  - Jupyter notebook
+- [Cab booking management simulation](https://github.com/acmpesuecc/Cab-Booking-Managemet-Simulation)
+  - C++
+- [Calculate Your CGPA](https://github.com/acmpesuecc/calcyourgpa)
+  - link broke
 - [CFDDNS](https://github.com/acmpesuecc/CFDDNS)
+  - Python
+- [Ciphers](https://github.com/acmpesuecc/Ciphers)
+  - C++
+- [Credit Card Verification](https://github.com/acmpesuecc/CreditCardVerifier)
+  - HTML
+  - CSS
+  - JavaScript
+- [CricBot](https://github.com/acmpesuecc/CricBot)
+- [Code Snips](https://github.com/acmpesuecc/code_snips)
+  - Python
+  - Jupyter Notebook
+- [Deprint](https://github.com/acmpesuecc/deprint)
+  - TypeScript
+  - JavaScript
+- [DrinkWaterBot](https://github.com/acmpesuecc/DrinkWaterBot)
+  - JavaScript
+- [EasyLinks](https://github.com/acmpesuecc/EasyLinks)
+  - Python
+  - HTML
+  - JavaScript
+- [Hacknight LeaderBoard](https://github.com/acmpesuecc/bigboard)
+- [Keystroke Injector](https://github.com/acmpesuecc/keystroke_injector)
+  - C++
+  - C
+- [Measure App](https://github.com/Manab784/Measure_App)
+  - link broke
+- [NoSpoilers](https://github.com/acmpesuecc/NoSpoilers)
+  - Python
+- [Object Recognition and Classification System](https://github.com/acmpesuecc/Object-Recognition-and-Classification-System)
   - Python
 - [Perf Test](https://github.com/acmpesuecc/perf-test)
   - C
   - Makefile
   - Shell
   - CMake
+- [Recommendation System](https://github.com/acmpesuecc/Recommendation-system)
+  - Python
+  - Jupyter Notebook
+- [ResourcePolice](https://github.com/acmpesuecc/ResourcePolice) 
+  - Python
 - [Maze Solver](https://github.com/acmpesuecc/maze_solver)
   - C++
-- [Bare Bones](https://github.com/acmpesuecc/BareBones)
-  - SystemVerilog
-- [NoSpoilers](https://github.com/acmpesuecc/NoSpoilers)
-  - Python
-- [Credit Card Verification](https://github.com/acmpesuecc/CreditCardVerifier)
-  - HTML
-  - CSS
-  - JavaScript
-- [AttendanceLogger](https://github.com/acmpesuecc/AttendanceLogger)
-  - Go
-- [Calculate Your CGPA](https://github.com/acmpesuecc/calcyourgpa)
-  - link broke
-- [DrinkWaterBot](https://github.com/acmpesuecc/DrinkWaterBot)
-  - JavaScript
-- [Deprint](https://github.com/acmpesuecc/deprint)
-  - TypeScript
-  - JavaScript
 - [TicTacToe](https://github.com/acmpesuecc/tictactoe)
   - HTML
   - CSS
@@ -59,24 +66,16 @@ This contains all the repositories of Hacknight 3.0 2021 which one can contribut
   - TypeScript
 - [React Starter Files](https://github.com/acmpesuecc/react-starter-files) 
   - link broke
-- [Keystroke Injector](https://github.com/acmpesuecc/keystroke_injector)
-  - C++
-  - C
 - [Vigenere Cipher](https://github.com/acmpesuecc/vigenere_cipher)
   - C
   - Makefile
-- [Object Recognition and Classification System](https://github.com/acmpesuecc/Object-Recognition-and-Classification-System)
-  - Python
 - [Voice Based Translator](https://github.com/Manab784/Voice-Based-Translator)
   - link broke
 - [SNEK game](https://github.com/acmpesuecc/SNEK.git)
   - Python
-- [Cab booking management simulation](https://github.com/acmpesuecc/Cab-Booking-Managemet-Simulation)
-  - C++
 - [Sudoku](https://github.com/acmpesuecc/py-sudoku)
   - Python
 - [Get RFCs](https://github.com/acmpesuecc/py-getrfc)
   - Python
-- [LeaderBoard](https://github.com/acmpesuecc/bigboard)
-- [Measure App](https://github.com/Manab784/Measure_App)
-  - link broke
+
+
