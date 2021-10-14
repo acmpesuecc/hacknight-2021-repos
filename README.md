@@ -41,8 +41,8 @@ This contains all the repositories of Hacknight 3.0 2021 which one can contribut
 - [Keystroke Injector](https://github.com/acmpesuecc/keystroke_injector)
   - C++
   - C
-- [Measure App](https://github.com/Manab784/Measure_App)
-  - link broke
+- [Measure App](https://github.com/acmpesuecc/Measure_App)
+  - Kotlin
 - [NoSpoilers](https://github.com/acmpesuecc/NoSpoilers)
   - Python
 - [Object Recognition and Classification System](https://github.com/acmpesuecc/Object-Recognition-and-Classification-System)
@@ -64,13 +64,13 @@ This contains all the repositories of Hacknight 3.0 2021 which one can contribut
   - CSS
   - JavaScript
   - TypeScript
-- [React Starter Files](https://github.com/acmpesuecc/react-starter-files) 
-  - link broke
+- [React Starter Files](https://github.com/avinash-vk/react-starter-files) 
+  - JavaScript
 - [Vigenere Cipher](https://github.com/acmpesuecc/vigenere_cipher)
   - C
   - Makefile
-- [Voice Based Translator](https://github.com/Manab784/Voice-Based-Translator)
-  - link broke
+- [Voice Based Translator](https://github.com/acmpesuecc/Voice-Based-Translator)
+  - Python
 - [SNEK game](https://github.com/acmpesuecc/SNEK.git)
   - Python
 - [Sudoku](https://github.com/acmpesuecc/py-sudoku)
