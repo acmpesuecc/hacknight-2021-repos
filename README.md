@@ -1,34 +1,38 @@
-# hacknight-2021-repos
-This contains all the repositories of hacknight 3.0 which one can contribute to.
+# HACKNIGHT 2021 REPOSITORIES
+This contains all the repositories of Hacknight 3.0 2021 which one can contribute to.
 
--> https://github.com/acmpesuecc/Book-Recommendation-System  
--> https://github.com/acmpesuecc/EasyLinks  
--> https://github.com/acmpesuecc/code_snips  
--> https://github.com/acmpesuecc/CricBot  
--> https://github.com/acmpesuecc/Recommendation-system  
--> https://github.com/acmpesuecc/Cvpedia  
--> https://github.com/acmpesuecc/avions_repository  
--> https://github.com/acmpesuecc/ResourcePolice  
--> https://github.com/acmpesuecc/CFDDNS  
--> https://github.com/acmpesuecc/perf-test  
--> https://github.com/acmpesuecc/maze_solver  
--> https://github.com/acmpesuecc/BareBones  
--> https://github.com/acmpesuecc/NoSpoilers  
--> https://github.com/acmpesuecc/CreditCardVerifier  
--> https://github.com/acmpesuecc/AttendanceLogger  
--> https://github.com/acmpesuecc/calcyourgpa  
--> https://github.com/acmpesuecc/DrinkWaterBot  
--> https://github.com/acmpesuecc/deprint  
--> https://github.com/acmpesuecc/tictactoe  
--> https://github.com/acmpesuecc/react-starter-files  
--> https://github.com/acmpesuecc/keystroke_injector  
--> https://github.com/acmpesuecc/vigenere_cipher  
--> https://github.com/acmpesuecc/Cryptography  
--> https://github.com/acmpesuecc/Object-Recognition-and-Classification-System  
--> https://github.com/Manab784/Voice-Based-Translator  
--> https://github.com/acmpesuecc/SNEK.git  
--> https://github.com/acmpesuecc/Cab-Booking-Managemet-Simulation  
--> https://github.com/acmpesuecc/py-sudoku  
--> https://github.com/acmpesuecc/py-getrfc  
--> https://github.com/acmpesuecc/bigboard  
--> https://github.com/Manab784/Measure_App  
+- [Book Recommendation System](https://github.com/thelastCube/Book-Recommendation-System)
+  - python
+  - jupyter notebook
+- [EasyLinks](https://github.com/acmpesuecc/EasyLinks)
+
+- [Code Snips](https://github.com/acmpesuecc/code_snips)
+
+- [CricBot](https://github.com/acmpesuecc/CricBot)
+
+- [Recommendation System](https://github.com/acmpesuecc/Recommendation-system)
+- [Cvpedia](https://github.com/acmpesuecc/Cvpedia)
+- [Avions](https://github.com/acmpesuecc/avions_repository)
+- [ResourcePolice](https://github.com/acmpesuecc/ResourcePolice) 
+- [CFDDNS](https://github.com/acmpesuecc/CFDDNS)
+- [Perf Test](https://github.com/acmpesuecc/perf-test)
+- [Maze Solver](https://github.com/acmpesuecc/maze_solver)
+- [Bare Bones](https://github.com/acmpesuecc/BareBones)
+- [NoSpoilers](https://github.com/acmpesuecc/NoSpoilers)
+- [Credit Card Verification](https://github.com/acmpesuecc/CreditCardVerifier)
+- [AttendanceLogger](https://github.com/acmpesuecc/AttendanceLogger) 
+- [Calculate Your CGPA](https://github.com/acmpesuecc/calcyourgpa)
+- [DrinkWaterBot](https://github.com/acmpesuecc/DrinkWaterBot)
+- [Deprint](https://github.com/acmpesuecc/deprint)
+- [TicTacToe](https://github.com/acmpesuecc/tictactoe)
+- [React Starter Files](https://github.com/acmpesuecc/react-starter-files) 
+- [Keystroke Injector](https://github.com/acmpesuecc/keystroke_injector)
+- [Vigenere Cipher](https://github.com/acmpesuecc/vigenere_cipher)
+- [Object Recognition and Classification System](https://github.com/acmpesuecc/Object-Recognition-and-Classification-System)
+- [Voice Based Translator](https://github.com/Manab784/Voice-Based-Translator)
+- [SNEK game](https://github.com/acmpesuecc/SNEK.git)
+- [Cab booking management simulation](https://github.com/acmpesuecc/Cab-Booking-Managemet-Simulation)
+- [Sudoku](https://github.com/acmpesuecc/py-sudoku)
+- [Get RFCs](https://github.com/acmpesuecc/py-getrfc)
+- [LeaderBoard](https://github.com/acmpesuecc/bigboard)
+- [Measure App](https://github.com/Manab784/Measure_App)
