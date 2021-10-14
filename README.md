@@ -2,19 +2,32 @@
 This contains all the repositories of Hacknight 3.0 2021 which one can contribute to.
 
 - [Book Recommendation System](https://github.com/thelastCube/Book-Recommendation-System)
-  - python
-  - jupyter notebook
+  - Python
+  - Jupyter notebook
 - [EasyLinks](https://github.com/acmpesuecc/EasyLinks)
-
+  - Python
+  - HTML
+  - JavaScript
 - [Code Snips](https://github.com/acmpesuecc/code_snips)
-
+  - Python
+  - Jupyter Notebook
 - [CricBot](https://github.com/acmpesuecc/CricBot)
 
 - [Recommendation System](https://github.com/acmpesuecc/Recommendation-system)
+  - Python
+  - Jupyter Notebook
 - [Cvpedia](https://github.com/acmpesuecc/Cvpedia)
+  - HTML
+  - CSS
+  - JavaScript
 - [Avions](https://github.com/acmpesuecc/avions_repository)
+  - HTML
+  - CSS
+  - JavaScript
 - [ResourcePolice](https://github.com/acmpesuecc/ResourcePolice) 
+  - Python
 - [CFDDNS](https://github.com/acmpesuecc/CFDDNS)
+  - Python
 - [Perf Test](https://github.com/acmpesuecc/perf-test)
 - [Maze Solver](https://github.com/acmpesuecc/maze_solver)
 - [Bare Bones](https://github.com/acmpesuecc/BareBones)
