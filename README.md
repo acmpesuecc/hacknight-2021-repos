@@ -14,8 +14,8 @@ This contains all the repositories of Hacknight 3.0 2021 which one can contribut
   - Jupyter notebook
 - [Cab booking management simulation](https://github.com/acmpesuecc/Cab-Booking-Managemet-Simulation)
   - C++
-- [Calculate Your CGPA](https://github.com/acmpesuecc/calcyourgpa)
-  - link broke
+- [Calculate Your CGPA](https://github.com/avinash-vk/calcyourgpa)
+  - HTML
 - [CFDDNS](https://github.com/acmpesuecc/CFDDNS)
   - Python
 - [Ciphers](https://github.com/acmpesuecc/Ciphers)
