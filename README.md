@@ -24,7 +24,6 @@ This contains all the repositories of Hacknight 3.0 2021 which one can contribut
   - HTML
   - CSS
   - JavaScript
-- [CricBot](https://github.com/acmpesuecc/CricBot)
 - [Code Snips](https://github.com/acmpesuecc/code_snips)
   - Python
   - Jupyter Notebook
