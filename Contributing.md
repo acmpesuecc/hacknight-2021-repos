@@ -1,8 +1,8 @@
 # Welcome to ACM PESUECC's Hacktoberfest Hacknight 2.0
 
 ## Make sure to follow the steps exactly, inorder to qualify for exciting goodies and prizes!
-1. Head to https://hacktoberfest.digitalocean.com and register to be eligible to win the T-Shirt
-2. Have a look at the repositories https://github.com/acmpesuecc/hacknight-2021-repos/blob/main/README.md
+1. Head to [Hacktober](https://hacktoberfest.digitalocean.com) and register to be eligible to win the T-Shirt
+2. Have a look at the repositories [Hacknight-2021-Repos](https://github.com/acmpesuecc/hacknight-2021-repos/blob/main/README.md)
 3. Find a repo you like
 4. Have a look at Issues in that repository
 5. Drop a message if you want to work on it
