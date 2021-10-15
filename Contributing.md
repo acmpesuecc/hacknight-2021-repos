@@ -10,3 +10,14 @@
 7. Code!
 8. Submit a Pull Request mentioning that you've fixed the Issue (Make sure to submit only 1 PR per issue)
 9. Relax
+
+# Offcial rules of the Hacktober
+[Hacknight (digital ocean)](https://hacktoberfest.digitalocean.com/resources/maintainers)
+
+# Timeline of the event
+- 12 pm- Opening Ceremody
+- 5 pm- Speaker (Maneesh Sharma- founder of India's first online book library- BookMeABook!)
+- 10pm- GSoC Pannel (the secret to the google summer of code you all have been waiting for!)
+- 12 am- Game Night (ever wondered what happens in the ACM club when all the members gather? join game night to find out!)
+- 12 pm- Close Repository
+- 5 pm- Winners announcement and closing ceremony
