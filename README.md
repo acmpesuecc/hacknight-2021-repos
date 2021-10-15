@@ -20,6 +20,10 @@ This contains all the repositories of Hacknight 3.0 2021 which one can contribut
   - Python
 - [Ciphers](https://github.com/acmpesuecc/Ciphers)
   - C++
+- [Cvpedia](https://github.com/acmpesuecc/CVpedia)
+  - HTML
+  - CSS
+  - Javascript
 - [Credit Card Verification](https://github.com/acmpesuecc/CreditCardVerifier)
   - HTML
   - CSS
