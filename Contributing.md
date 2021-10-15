@@ -16,7 +16,7 @@
 
 # Timeline of the event
 - 12 pm- Opening Ceremody
-- 5 pm- Speaker (Maneesh Sharma- founder of India's first online book library- BookMeABook!)
+- 4:50 pm- Speaker (Maneesh Sharma- General Manager of GitHub India!)
 - 10pm- GSoC Pannel (the secret to the google summer of code you all have been waiting for!)
 - 12 am- Game Night (ever wondered what happens in the ACM club when all the members gather? join game night to find out!)
 - 12 pm- Close Repository
