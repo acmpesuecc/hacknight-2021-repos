@@ -36,7 +36,6 @@ This contains all the repositories of Hacknight 3.0 2021 which one can contribut
   - Python
   - HTML
   - JavaScript
-- [Hacknight LeaderBoard](https://github.com/acmpesuecc/bigboard)
 - [Keystroke Injector](https://github.com/acmpesuecc/keystroke_injector)
   - C++
   - C
